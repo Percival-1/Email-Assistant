@@ -11,7 +11,7 @@
 - [Features](#-features)
 - [Architecture](#-architecture)
 - [Quick Start](#-quick-start)
-- [Configuration](#-configuration)
+- [Configuration](#-configuration)f
 - [Usage](#-usage)
 - [Evaluation](#-evaluation)
 - [Documentation](#-documentation)
@@ -151,7 +151,7 @@ Place your OAuth2 credentials in `.secrets/token.json`:
 }
 ```
 
-See [GMAIL_SETUP_GUIDE.md](GMAIL_SETUP_GUIDE.md) for complete setup instructions.
+See [GMAIL_SETUP_GUIDE.md](docs/GMAIL_SETUP_GUIDE.md) for complete setup instructions.
 
 ## 📖 Usage
 
@@ -233,14 +233,13 @@ Detailed guides available in the docs:
 
 | Guide | Description |
 |-------|-------------|
-| [GMAIL_SETUP_GUIDE.md](GMAIL_SETUP_GUIDE.md) | Complete Gmail API setup with OAuth2 |
-| [COMPLETE_SETUP_GUIDE.md](COMPLETE_SETUP_GUIDE.md) | End-to-end system setup |
-| [HITL_INTERACTION_GUIDE.md](HITL_INTERACTION_GUIDE.md) | Human-in-the-loop configuration |
-| [LANGSMITH_EVALUATION_GUIDE.md](LANGSMITH_EVALUATION_GUIDE.md) | Evaluation framework usage |
-| [SYSTEM_ARCHITECTURE.md](SYSTEM_ARCHITECTURE.md) | Technical architecture details |
-| [HOW_IT_WORKS.md](HOW_IT_WORKS.md) | System workflow explanation |
-| [WINDOWS_USAGE_GUIDE.md](WINDOWS_USAGE_GUIDE.md) | Windows-specific instructions |
-| [PRODUCTION_DEPLOYMENT.md](PRODUCTION_DEPLOYMENT.md) | Production deployment guide |
+| [GMAIL_SETUP_GUIDE.md](docs/GMAIL_SETUP_GUIDE.md) | Complete Gmail API setup with OAuth2 |
+| [COMPLETE_SETUP_GUIDE.md](docs/COMPLETE_SETUP_GUIDE.md) | End-to-end system setup |
+| [LANGSMITH_EVALUATION_GUIDE.md](docs/LANGSMITH_EVALUATION_GUIDE.md) | Evaluation framework usage |
+| [SYSTEM_ARCHITECTURE.md](docs/SYSTEM_ARCHITECTURE.md) | Technical architecture details |
+| [HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) | System workflow explanation |
+| [WINDOWS_USAGE_GUIDE.md](docs/WINDOWS_USAGE_GUIDE.md) | Windows-specific instructions |
+| [PRODUCTION_DEPLOYMENT.md](docs/PRODUCTION_DEPLOYMENT.md) | Production deployment guide |
 
 ## 📁 Project Structure
 
