@@ -315,9 +315,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 📞 Support
 
 For issues and questions:
-- 🐛 [GitHub Issues](https://github.com/yourusername/agents-from-scratch/issues)
-- 📖 [Documentation](https://github.com/yourusername/agents-from-scratch/wiki)
-- 💬 [Discussions](https://github.com/yourusername/agents-from-scratch/discussions)
+- 🐛 [GitHub Issues](https://github.com/Percival-1/agents-from-scratch/issues)
+- 📖 [Documentation](https://github.com/Percival-1/agents-from-scratch/wiki)
+- 💬 [Discussions](https://github.com/Percival-1/agents-from-scratch/discussions)
 
 ---
 
