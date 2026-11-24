@@ -94,7 +94,7 @@
    ```bash
    python tests/test_gmail_auth.py
    ```
-   Follow the OAuth flow to authenticate. See [GMAIL_SETUP_GUIDE.md](GMAIL_SETUP_GUIDE.md) for detailed instructions.
+   Follow the OAuth flow to authenticate. See [GMAIL_SETUP_GUIDE.md](docs/GMAIL_SETUP_GUIDE.md) for detailed instructions.
 
 5. **Start LangGraph server**
    ```bash
