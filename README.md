@@ -305,19 +305,12 @@ Contributions welcome! Please:
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [LangChain](https://www.langchain.com/) for the LangGraph framework
 - [OpenAI](https://openai.com/) for GPT-4o
 - [Google](https://developers.google.com/) for Gmail & Calendar APIs
 - LangSmith team for evaluation tools
-
-## 📞 Support
-
-For issues and questions:
-- 🐛 [GitHub Issues](https://github.com/Percival-1/agents-from-scratch/issues)
-- 📖 [Documentation](https://github.com/Percival-1/agents-from-scratch/wiki)
-- 💬 [Discussions](https://github.com/Percival-1/agents-from-scratch/discussions)
 
 ---
 
